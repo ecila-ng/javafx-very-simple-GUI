@@ -7,7 +7,7 @@ Display either circle, square or rectangle and theirs gradient colors.
 
 . Completed in an hour so it works as a simple GUI but it's not perfect
 
-. Platform developed: Windows 10
+. Platform developed: Windows 10 / NetBeans IDE
 
 . Bugs: There will be a ton of errors showing along while running but they do not affect
 how the program works (maybe in the future when I improve the program they will...)
