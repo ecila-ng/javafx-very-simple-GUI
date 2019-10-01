@@ -14,5 +14,7 @@ how the program works (maybe in the future when I improve the program they will.
  
 
 [x] Choose either Circle, Square, or Rectangle to create a corresponding shape
+
 [x] Click on corresponding add Gradient button next to the shape to change its color
+
 [x] Clear the screen with the Reset button
